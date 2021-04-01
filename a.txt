@@ -3,5 +3,5 @@ int b = 34;
 int c = 35;
 enum C
 {
-a,b,c
+a,b
 }
