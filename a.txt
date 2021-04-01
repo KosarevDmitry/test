@@ -1,5 +1,5 @@
-a
 int b = 34;
+double v= 5;
 int c = 35;
 enum C
 {
