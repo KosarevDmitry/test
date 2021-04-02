@@ -5,3 +5,5 @@ enum C
 {
 a,b
 }
+
+// another records
